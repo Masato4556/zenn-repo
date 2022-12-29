@@ -8,3 +8,7 @@
 	- `pnpm exec zenn preview`
 - デプロイ
 	- ファイルをコミットし、Zenn と連携されているGitHubリポジトリにプッシュ
+
+
+# 参考
+https://zenn.dev/estra/books/obsidian-dot-zenn/viewer/1-oz-begin
